@@ -1,0 +1,11 @@
+.bgred{
+    background-color: red;
+}
+.bggreen{
+    background-color: green;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
